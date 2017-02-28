@@ -1,0 +1,6 @@
+language:
+  - bash
+dependencies:
+  - url: git@github.com:containers-tools/test-module-dep.git
+    version: 1.0
+
